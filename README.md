@@ -1,8 +1,5 @@
 <!-- README.md -->
 
-<!-- Photo en haut du README -->
-<img src="IMG.jpg" alt="Ismaël Madou" width="150" style="border-radius: 50%;" />
-
 # 👋 Hello, I'm **Ismaël Madou Gagi**
 
 Welcome to my GitHub!  
